@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 개발자 김한림
+description: 개발을 공부하며 배운 내용들을 정리하는 문서형 블로그입니다.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://kimhanlim97.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/kimhanlim97/kimhanlim97.github.io
