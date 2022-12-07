@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HTML 문서의 대략적인 구성
+parent: HTML
 nav_order: 2
 ---
 HTML 문서는 대략적으로 `DOCTYPE`(DTD Tag), `html`, `head`, `body`로 구성되어 있습니다.
