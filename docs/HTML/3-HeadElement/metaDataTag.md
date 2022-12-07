@@ -2,6 +2,7 @@
 layout: default
 title: HTML 메타데이터 태그
 parent: Head Element
+grand_parent: HTML
 nav_order: 1
 ---
 ## head 태그
