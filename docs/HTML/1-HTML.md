@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HTML이란?
+parent: HTML
 nav_order: 1
 
 ---
